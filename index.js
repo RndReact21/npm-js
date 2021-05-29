@@ -1,3 +1,3 @@
 // index.js
-const helloWorldJs = require("hello-world-js");
-console.log(helloWorldJs.hello()); // output: 
+import helloWorldJs from "hello-world-js";
+console.log(helloWorldJs.hello()); // output: Hello world!
